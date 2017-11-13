@@ -11,4 +11,6 @@ r2jpは日本国内のradare2コミュニティです。
 radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などをWikiで書きます。
 
 メインテナー：
-@trufae @tessy_jp @unixfreaxjp @kuroneko
+@trufae @tessy_jp @unixfreaxjp @kuroneko 
+オブザーバー：
+@sonodam
