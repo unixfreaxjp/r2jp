@@ -10,4 +10,5 @@ r2jpは日本国内のradare2コミュニティです。
 
 radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などを書きます。
 
-@unixfreaxjp
+講師：
+@trufae @unixfreaxjp 
