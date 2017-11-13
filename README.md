@@ -8,6 +8,7 @@ r2jpは日本国内のradare2コミュニティです。
 - 日本語ドキュメンテーション
 などをやります。
 
-radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などを書きます。
+radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などをWikiで書きます。
 
-@unixfreaxjp
+メインテナー：
+@trufae @tessy_jp @unixfreaxjp @kuroneko
