@@ -6,15 +6,13 @@ r2jpは日本国内のradare2コミュニティです。
 - 質問/ Q&A （質問があれば新規Issuesのチケットで対応）
 - 開発（プラグイン、追加機能、アイデア）
 - 日本語ドキュメンテーション
-などをやります。
+などをやります。 r2jpのrepo URL: https://github.com/radare/r2jp
 
 radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などをWikiで書きます。
 
 重要なリンク情報：
 
 　　site http://rada.re/r
-
-  r2jp repo: https://github.com/radare/r2jp
 
 　　source https://github.com/radare/radare2
 
