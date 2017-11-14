@@ -10,8 +10,25 @@ r2jpは日本国内のradare2コミュニティです。
 
 radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などをWikiで書きます。
 
+重要なリンク情報↓
+
+　　site http://rada.re/r
+  
+  r2jp repo: https://github.com/radare/r2jp
+
+　　source https://github.com/radare/radare2
+
+　　doc http://rada.re/vdoc/
+
+　　web demo http://cloud.rada.re
+
+　　twitter @radareorg 
+ 
+ 
 メインテナー：
+
 @trufae @tessy_jp @unixfreaxjp @kuroneko 
 
 オブザーバー：
+
 @sonodam
