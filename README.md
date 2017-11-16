@@ -23,7 +23,7 @@ radare2ベテランのユーザーが便利な使い方、質問の回答、howt
  
 メインテナー：
 
-@trufae @tessy_jp @unixfreaxjp @kuroneko 
+@trufae @tessy_jp @unixfreaxjp @luffykuroneko 
 
 オブザーバー：
 
