@@ -1,6 +1,10 @@
 # r2jp
 ## Japanese Community of radare2　https://github.com/radareorg/r2jp
 
+ロゴ：
+
+[![](http://bit.ly/2AdpAvS)](http://bit.ly/2AdpAvS)
+
 r2jpは日本国内のradare2コミュニティです。
 ここでは日本語限定でradare2に対してサポートのやり取り、例えば：
 - 質問/ Q&A （質問があれば新規Issuesのチケットで対応）
