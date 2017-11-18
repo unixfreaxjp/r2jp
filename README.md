@@ -1,5 +1,5 @@
 # r2jp
-## Japanese Community of radare2
+## Japanese Community of radare2　https://github.com/radareorg/r2jp
 
 r2jpは日本国内のradare2コミュニティです。
 ここでは日本語限定でradare2に対してサポートのやり取り、例えば：
