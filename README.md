@@ -3,7 +3,7 @@
 
 ロゴ：
 
-[![](http://bit.ly/2AdpAvS)](http://bit.ly/2AdpAvS)
+[![](http://bit.ly/2zfKbzD)](http://bit.ly/2zfKbzD)
 
 r2jpは日本国内のradare2コミュニティです。
 ここでは日本語限定でradare2に対してサポートのやり取り、例えば：
