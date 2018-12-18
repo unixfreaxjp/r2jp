@@ -38,7 +38,7 @@ radare2全般の重要なリンク情報
 - book [https://www.gitbook.com/book/radare/radare2book/details](https://www.gitbook.com/book/radare/radare2book/details)
 - blog [http://radare.today](http://radare.today)
 - installers [http://radare.mikelloc.com/list](http://radare.mikelloc.com/list)
-- r2con conference [https://rada.re/con/](https://rada.re/con/)
+- r2con conference [https://rada.re/con/](https://rada.re/con/) or [https://github.com/radareorg/r2con](https://github.com/radareorg/r2con)
 - web demo [http://cloud.rada.re](http://cloud.rada.re) (今メインテナンス中)
 - twitter @radareorg [https://twitter.com/radareorg](https://twitter.com/radareorg)
 ---
