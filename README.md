@@ -35,7 +35,7 @@ radare2全般の重要なリンク情報
 - releases [https://github.com/radare/radare2/releases](https://github.com/radare/radare2/releases)
 - dev/source: [https://github.com/radare/radare2](https://github.com/radare/radare2)
 - doc [http://rada.re/vdoc/](http://rada.re/vdoc/)
-- book [https://www.gitbook.com/book/radare/radare2book/details](https://www.gitbook.com/book/radare/radare2book/details)
+- book [https://radare.gitbooks.io/radare2book/content/](https://radare.gitbooks.io/radare2book/content/)
 - documentaton [http://radare.today/posts/radare2-is-documented/](http://radare.today/posts/radare2-is-documented/)
 - blog [http://radare.today](http://radare.today)
 - installers [http://radare.mikelloc.com/list](http://radare.mikelloc.com/list)
