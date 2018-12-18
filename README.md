@@ -29,23 +29,25 @@ r2jpは日本国内のradare2コミュニティで、ここでradare2に対し�
 
 radare2全般の重要なリンク情報
 ```
-- site http://rada.re/r
+- site https://www.radare.org/ (http://rada.re/)
 - source https://github.com/radare/radare2
 - doc http://rada.re/vdoc/
 - book https://www.gitbook.com/book/radare/radare2book/details
 - blog http://radare.today 
-- web demo http://cloud.rada.re
+- installers http://radare.mikelloc.com/list
+- r2con conference https://rada.re/con/
+- web demo http://cloud.rada.re (今メインテナンス中)
 - twitter @radareorg https://twitter.com/radareorg
  ```
  
 サイトのメインテナー
 ```
-@trufae @tessy_jp @unixfreaxjp @luffykuroneko 
+@trufae @tessy_jp @unixfreaxjp @luffykuroneko (r2jp)
 ```
 
 オブザーバー
 ```
-@sonodam
+@sonodam (r2jp)
 ```
 ---
 
