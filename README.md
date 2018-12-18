@@ -30,7 +30,8 @@ r2jpは日本国内のradare2コミュニティで、ここでradare2に対し�
 radare2全般の重要なリンク情報
 ```
 - site https://www.radare.org/ (http://rada.re/)
-- source https://github.com/radare/radare2
+- releases https://github.com/radare/radare2/releases
+- dev/source: https://github.com/radare/radare2
 - doc http://rada.re/vdoc/
 - book https://www.gitbook.com/book/radare/radare2book/details
 - blog http://radare.today 
