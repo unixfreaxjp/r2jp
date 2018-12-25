@@ -42,6 +42,7 @@ radare2全般の重要なリンク情報
 - r2con conference [https://rada.re/con/](https://rada.re/con/) or [https://github.com/radareorg/r2con](https://github.com/radareorg/r2con)
 - web demo [http://cloud.rada.re](http://cloud.rada.re) (今メインテナンス中)
 - ctf tips [http://radare.today/posts/using-radare2/](http://radare.today/posts/using-radare2/)
+- devcode CLang checks (Jenkins) [http://ci.radare.org/job/radare2-scan-build/](http://ci.radare.org/job/radare2-scan-build/)
 - twitter @radareorg [https://twitter.com/radareorg](https://twitter.com/radareorg)
 ---
  
