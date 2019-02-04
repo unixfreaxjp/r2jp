@@ -10,9 +10,9 @@ https://github.com/radareorg/r2jp
 ```
 
 ロゴ
-```
+
 [![](http://bit.ly/2zfKbzD)](http://bit.ly/2zfKbzD)
-```
+
 
 r2jpは日本国内のradare2コミュニティで、ここでradare2に対しての日本国内ユーザのサポート、イベントと技術交換などのやり取りを行っております。
 目的は下記の内容をフォローが出来るように強い国内コミュニティを作る前提ですので、ターゲットは例えば下記の対応が出来る迄と考えております。
@@ -52,8 +52,8 @@ radare2全般の重要なリンク情報
 1. 2017年11月02日「radare2」ワークショップ AVTokyo 2017 (by pancake)
 2. 2018年08月31日 radare2JP/r2jpのOB会イベント
 3. 2018年09月07日 r2jpチームからR2CON 2018コンファレンスでのプレゼンテーション (unixfreaxjp/Unpacking the Non-Unpackable)
-4. (coming soon) 2018年12月23日 SECCON 2018 CTF YOROZUワークショップでr2con 2018のレポートとv3.1.2でソフトウエア解析入門
-5. (tba)
+4. 2018年12月23日 SECCON 2018 CTF YOROZUワークショップでr2con 2018のレポートとv3.1.2でソフトウエア解析入門
+5. 2019年のワークショップ予定(tba)
 ```
  
 サイトのメインテナー
