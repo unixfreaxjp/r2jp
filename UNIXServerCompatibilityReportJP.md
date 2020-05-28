@@ -43,7 +43,7 @@ Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
 
 (core : ok , r2ghidra: NG, r2dec OK )
 
-**radare2 coreのバーション（テストのターゲット参考情報）
+**radare2 coreのバーション** （テストのターゲット参考ver情報）
 
 [リリース一覧](https://github.com/radareorg/radare2/releases) | [テスト最中/ radare2_4.5.0-git](https://github.com/radareorg/radare2/releases/tag/continuous)
 
