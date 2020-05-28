@@ -28,9 +28,9 @@ r2jpは日本国内のradare2コミュニティで、ここでradare2に対し�
 内容によって、radare2ベテランのユーザーが便利な使い方、質問の回答、howto手順などをWikiで書きます。
 ```
 
-radare2全般の重要なリンク情報
-
 ---
+**radare2全般の重要なリンク情報**
+
 - site [https://www.radare.org/](https://www.radare.org/) or [http://rada.re/](http://rada.re/)
 - releases [https://github.com/radare/radare2/releases](https://github.com/radare/radare2/releases)
 - dev/source: [https://github.com/radare/radare2](https://github.com/radare/radare2)
