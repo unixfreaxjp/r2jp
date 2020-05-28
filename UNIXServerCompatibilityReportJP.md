@@ -17,7 +17,7 @@ Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING
 NetBSD と OpenBSD (TBA)
 ```
 
-**テストの結論/詳細内容↓**
+**テストの結論/詳細内容↓ (v4.3.0 ～ v4.4.0 base/core)**
 
 - 上記のテスト用にサポートされているバージョンはすべてx64ビットCPU用で、 x32ビットCPUのサーバーは現在非コミットの状態です。
 - r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  amiguousとのエラーの内容が出ています。
@@ -35,12 +35,17 @@ NetBSD と OpenBSD (TBA)
 radare2 4.2.0-git 23842 @ freebsd-x86-64 git.4.1.1-128-g3c788a496
 commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 ```
+[STABLE（チェックの問題がありません）のバーション参考情報(https://github.com/radareorg/radare2/releases/tag/4.2.0)
 
 **安定したOS組み込みバーション↓**
 
 Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
 
 (core : ok , r2ghidra: NG, r2dec OK )
+
+**radare2 coreのバーション（テストのターゲット参考情報）
+
+[リリース一覧](https://github.com/radareorg/radare2/releases) | [テスト最中/ radare2_4.5.0-git](https://github.com/radareorg/radare2/releases/tag/continuous)
 
 
 **EOLの確認について下記のそれぞれUNIXディストリビューションのリンクをご確認ください↓**
