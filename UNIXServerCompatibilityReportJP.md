@@ -44,9 +44,9 @@ Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
 
 - [FreeBSD supported versons](https://www.freebsd.org/releases/)
 - [Linux Debian supported versions:](https://wiki.debian.org/LTS/Extended)
-- [OpenBSD supported versions](https://marc.info/?l=openbsd-announce) | [2](https://www.openbsd.org/)
-- [NetBSD suppoerted versions](https://www.netbsd.org/releases/formal.html)
-
+- [OpenBSD supported versions](https://marc.info/?l=openbsd-announce) | [or Web site](https://www.openbsd.org/)
+- [NetBSD supported versions](https://www.netbsd.org/releases/formal.html)
+- [Tsurugi Linux check versions](https://tsurugi-linux.org/documentation_tsurugi_linux_changelog.php#)
 
 ---
 Thu Jan 16 14:30:32 JST 2020 @unxifreaxjp
