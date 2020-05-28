@@ -8,8 +8,8 @@
 ```
 FreeBSD 9 :  unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
 FreeBSD 10 : unsupported , see: https://twitter.com/malwaremustd1e/status/1211930394628509697
-FreeBSD 12 : core : ok , r2ghidra: NG, r2dec NG 
 FreeBSD 11 : core : ok , r2ghidra: NG, r2dec NG 
+FreeBSD 12 : core : ok , r2ghidra: NG, r2dec NG 
 Debian Wheezy: unsupported, see: https://twitter.com/malwaremustd1e/status/1215954152137740288
 Debian Jessie: core : ok , r2ghidra: NG, r2dec OK 
 Debian Stretch core : ok , r2ghidra: NG, r2dec OK 
@@ -20,7 +20,7 @@ NetBSD と OpenBSD (TBA)
 **テストの結論/詳細内容↓ (v4.3.0 ～ v4.4.0 base/core)**
 
 - 上記のテスト用にサポートされているバージョンはすべてx64ビットCPU用で、 x32ビットCPUのサーバーは現在非コミットの状態です。
-- r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  amiguousとのエラーの内容が出ています。
+- r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  ambiguousエラーが出ています。
 - CPPライブラリ互換性のBSDプラットフォームでr2 ghidraが失敗しました
 - BSDテストスキーム全体で、r2decには「duktape」のビルドに関する問題が発生しています。
 - FreeBSDx32は現在サポートされていません。報告しましたの内容(https：//twitter.com/malwaremustd1e/status/1211930394628509697)をご参照してください。
