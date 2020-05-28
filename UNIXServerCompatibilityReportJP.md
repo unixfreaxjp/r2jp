@@ -1,6 +1,6 @@
-# radare2 for servers support (r2jp community)
+## radare2 for servers support (r2jp community)
 
-## The UNIX server compatibility test result and support information for year 2020 (r2jp).
+The UNIX server compatibility test result and support information for year 2020 (r2jp).
 
 今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーバのバーションです。
 
