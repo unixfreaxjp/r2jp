@@ -44,7 +44,7 @@ commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 
 **radare2 coreのバーション** （テストのターゲット参考ver情報）
 
-[リリース一覧](https://github.com/radareorg/radare2/releases) | [テスト最中/ radare2_4.5.0-git](https://github.com/radareorg/radare2/releases/tag/continuous)
+- [リリース一覧](https://github.com/radareorg/radare2/releases) | [テスト最中/ radare2_4.5.0-git](https://github.com/radareorg/radare2/releases/tag/continuous)
 
 
 **EOLの確認について下記のそれぞれUNIXディストリビューションのリンクをご確認ください↓**
