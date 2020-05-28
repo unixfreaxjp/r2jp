@@ -45,7 +45,7 @@ r2jpは日本国内のradare2コミュニティで、ここでradare2に対し�
 - ctf tips [http://radare.today/posts/using-radare2/](http://radare.today/posts/using-radare2/)
 - devcode CLang checks (Jenkins) [http://ci.radare.org/job/radare2-scan-build/](http://ci.radare.org/job/radare2-scan-build/)
 - twitter @radareorg [https://twitter.com/radareorg](https://twitter.com/radareorg)
-- [UNIX server compatinility report](https://github.com/radareorg/r2jp/blob/master/UNIXServerCompatibilityReportJP.md)
+- [UNIX server compatibility support](https://github.com/radareorg/r2jp/blob/master/UNIXServerCompatibilityReportJP.md)
 ---
  
  イベントの情報
