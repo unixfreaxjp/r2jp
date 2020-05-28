@@ -22,7 +22,7 @@ Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING
 - r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  amiguousとのエラーの内容が出ています。
 - CPPライブラリ互換性のBSDプラットフォームでr2 ghidraが失敗しました
 - BSDテストスキーム全体で、r2decには「duktape」のビルドに関する問題が発生しています。
-- FreeBSDx32は現在サポートされていません。https：//twitter.com/malwaremustd1e/status/1211930394628509697を参照してください。
+- FreeBSDx32は現在サポートされていません。[報告しましたの内容を](https：//twitter.com/malwaremustd1e/status/1211930394628509697)ご参照してください。
 - Debian Stretch x32のテストはもうコミットされていませんが、最新の結果は下記のとおりです↓
   Debian Stretch x86 core : ok , r2ghidra: NG, r2dec OK
 - OpenBSDは未だテスト中です。情報を改めて報告します。
