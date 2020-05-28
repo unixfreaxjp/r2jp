@@ -25,7 +25,13 @@ Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING
 - NetBSDの最新バージョンも後でお知らせします。
 - 最新の安定バージョン↓
 ~/radare2-STABLE]$ r2 -v
+```
 radare2 4.2.0-git 23842 @ freebsd-x86-64 git.4.1.1-128-g3c788a496
 commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
-````
+``
+- 安定したOS組み込みバーション↓
+```
+Tsurugi SECCON 2019 Special edition
+```
+---
 Thu Jan 16 14:30:32 JST 2020 @unxifreaxjp
