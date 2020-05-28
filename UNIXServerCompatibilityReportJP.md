@@ -1,7 +1,10 @@
+## radare2 for servers support (r2jp community)
+
+# The UNIX server compatibility test result and support information for year 2020 (r2jp).
+
 今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーバのバーションです。
 
 2019年12月(SECCON-2019で)にpancakeさんと本内容について打ち合わせのでcommitすることとなります。
-## radare2 for servers - The UNIX server compatibility test result and support information for year 2020 (r2jp).
 ```
 FreeBSD 9 :  unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
 FreeBSD 10 : unsupported , see: https://twitter.com/malwaremustd1e/status/1211930394628509697
@@ -23,13 +26,14 @@ Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING
   Debian Stretch x86 core : ok , r2ghidra: NG, r2dec OK
 - OpenBSDは未だテスト中です。情報を改めて報告します。
 - NetBSDの最新バージョンも後でお知らせします。
-- 最新の安定バージョン↓
-~/radare2-STABLE]$ r2 -v
+
+最新の安定バージョン↓
 ```
+~/radare2-STABLE]$ r2 -v
 radare2 4.2.0-git 23842 @ freebsd-x86-64 git.4.1.1-128-g3c788a496
 commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
-``
-- 安定したOS組み込みバーション↓
+```
+安定したOS組み込みバーション↓
 ```
 Tsurugi SECCON 2019 Special edition
 ```
