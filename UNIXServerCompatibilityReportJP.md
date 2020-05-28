@@ -1,10 +1,10 @@
 ## radare2 for servers support (r2jp community)
 
-The UNIX server compatibility test result and support information for year 2020 (r2jp).
-
 今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーババーションの報告です。
 
-2019年12月(SECCON-2019で)にpancakeさんと本内容について打ち合わせのでcommitすることとなります。
+2019年12月(SECCON-2019で)にpancakeさんと本内容について打ち合わせを行い、以下の内容をcommitすることになります。
+
+**今現在対応しているバーションと対応していないバーションのテスト結果**
 ```
 FreeBSD 9 :  unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
 FreeBSD 10 : unsupported , see: https://twitter.com/malwaremustd1e/status/1211930394628509697
@@ -14,6 +14,7 @@ Debian Wheezy: unsupported, see: https://twitter.com/malwaremustd1e/status/12159
 Debian Jessie: core : ok , r2ghidra: NG, r2dec OK 
 Debian Stretch core : ok , r2ghidra: NG, r2dec OK 
 Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING 
+NetBSD と OpenBSD (TBA)
 ```
 
 **テストの結論/詳細内容↓**
@@ -39,6 +40,8 @@ commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 
 Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
 
+(core : ok , r2ghidra: NG, r2dec OK )
+
 
 **EOLの確認について下記のそれぞれUNIXディストリビューションのリンクをご確認ください↓**
 
@@ -47,6 +50,8 @@ Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
 - [OpenBSD supported versions](https://marc.info/?l=openbsd-announce) | [or Web site](https://www.openbsd.org/)
 - [NetBSD supported versions](https://www.netbsd.org/releases/formal.html)
 - [Tsurugi Linux check versions](https://tsurugi-linux.org/documentation_tsurugi_linux_changelog.php#)
+
+＊）上記の内容を定期的に更新を行いますので変更される可能性もあります。
 
 ---
 Thu Jan 16 14:30:32 JST 2020 @unxifreaxjp
