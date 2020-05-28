@@ -2,7 +2,7 @@
 
 The UNIX server compatibility test result and support information for year 2020 (r2jp).
 
-今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーバのバーションです。
+今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーババーションの報告です。
 
 2019年12月(SECCON-2019で)にpancakeさんと本内容について打ち合わせのでcommitすることとなります。
 ```
