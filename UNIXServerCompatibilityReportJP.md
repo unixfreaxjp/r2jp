@@ -16,7 +16,7 @@ Debian Stretch core : ok , r2ghidra: NG, r2dec OK
 Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING 
 ```
 
-テストの結論/詳細内容↓
+**テストの結論/詳細内容↓**
 
 - 上記のテスト用にサポートされているバージョンはすべてx64ビットCPU用で、 x32ビットCPUのサーバーは現在非コミットの状態です。
 - r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  amiguousとのエラーの内容が出ています。
@@ -28,17 +28,25 @@ Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING
 - OpenBSDは未だテスト中です。情報を改めて報告します。
 - NetBSDの最新バージョンも後でお知らせします。
 
-最新の安定バージョン↓
+**最新の安定バージョン↓**
 ```
 ~/radare2-STABLE]$ r2 -v
 radare2 4.2.0-git 23842 @ freebsd-x86-64 git.4.1.1-128-g3c788a496
 commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 ```
 
-安定したOS組み込みバーション↓
-```
-Tsurugi SECCON 2019 Special edition
-```
+**安定したOS組み込みバーション↓**
+
+Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
+
+
+**EOLの確認について下記のそれぞれUNIXディストリビューションのリンクをご確認ください↓**
+
+- [FreeBSD supported versons](https://www.freebsd.org/releases/)
+- [Linux Debian supported versions:](https://wiki.debian.org/LTS/Extended)
+- [OpenBSD supported versions](https://marc.info/?l=openbsd-announce) | [2](https://www.openbsd.org/)
+- [NetBSD suppoerted versions](https://www.netbsd.org/releases/formal.html)
+
 
 ---
 Thu Jan 16 14:30:32 JST 2020 @unxifreaxjp
