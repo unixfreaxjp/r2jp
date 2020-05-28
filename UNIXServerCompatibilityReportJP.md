@@ -1,6 +1,6 @@
 今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーバのバーションです。
 
-2019年12月(DECCONで)にpancakeさんと本内容について打ち合わせのでcommitすることとなります。
+2019年12月(SECCON-2019で)にpancakeさんと本内容について打ち合わせのでcommitすることとなります。
 ## radare2 for servers - The UNIX server compatibility test result and support information for year 2020 (r2jp).
 ```
 FreeBSD 9 :  unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
