@@ -40,7 +40,7 @@ commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 **安定したOS組み込みバーション↓**
 
 - Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
-- (core : ok , r2ghidra: NG, r2dec OK )
+- (core : OK , r2ghidra: OK, r2dec OK, 実績: SECCON2019、HACKLU2019、MMD-0065-2020とMMD-0066-2020の解析)
 
 **radare2 coreのバーション** （テストのターゲット参考ver情報）
 
