@@ -1,6 +1,6 @@
-## radare2 for servers support (r2jp community)
+# radare2 for servers support (r2jp community)
 
-# The UNIX server compatibility test result and support information for year 2020 (r2jp).
+## The UNIX server compatibility test result and support information for year 2020 (r2jp).
 
 今まで互換性テスト結果を加え、2020年に対応すると対応しないUNIXサーバのバーションです。
 
@@ -14,8 +14,9 @@ Debian Wheezy: unsupported, see: https://twitter.com/malwaremustd1e/status/12159
 Debian Jessie: core : ok , r2ghidra: NG, r2dec OK 
 Debian Stretch core : ok , r2ghidra: NG, r2dec OK 
 Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING 
+```
 
-詳細内容
+テストの結論/詳細内容↓
 
 - 上記のテスト用にサポートされているバージョンはすべてx64ビットCPU用で、 x32ビットCPUのサーバーは現在非コミットの状態です。
 - r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  amiguousとのエラーの内容が出ています。
@@ -33,9 +34,11 @@ Debian Buster: core: ok, r2ghidra: PENDING, r2dec PENDING
 radare2 4.2.0-git 23842 @ freebsd-x86-64 git.4.1.1-128-g3c788a496
 commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 ```
+
 安定したOS組み込みバーション↓
 ```
 Tsurugi SECCON 2019 Special edition
 ```
+
 ---
 Thu Jan 16 14:30:32 JST 2020 @unxifreaxjp
