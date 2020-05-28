@@ -50,10 +50,11 @@ radare2全般の重要なリンク情報
  イベントの情報
 ```
 1. 2017年11月02日「radare2」ワークショップ AVTokyo 2017 (by pancake)
-2. 2018年08月31日 radare2JP/r2jpのOB会イベント
+2. 2018年08月31日 radare2JP/[r2jpのOB会イベント]⇒obkai20180831.md
 3. 2018年09月07日 r2jpチームからR2CON 2018コンファレンスでのプレゼンテーション (unixfreaxjp/Unpacking the Non-Unpackable)
 4. 2018年12月23日 SECCON 2018 CTF YOROZUワークショップでr2con 2018のレポートとv3.1.2でソフトウエア解析入門
-5. 2019年のワークショップ予定(tba)
+5. 2019年12月21日 SECCON 2019のワークショップでradare2のデコンパイラーの報告とデモを行い、r2ghidra-dec、r2decとpdcの紹介とデモ
+6. 2019年12月21日 radare2JP/[r2jpのOB会イベント(SECCON 2019後)]⇒obkai20191221.md
 ```
  
 サイトのメインテナー
