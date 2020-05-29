@@ -83,7 +83,7 @@ commit: 982be504999364c966d339c4c29f20da80128e14 build: 2019-12-17__10:29:05
 ```
 - (core : OK , r2ghidra: OK, r2dec OK, 実績: SECCON2019、HACKLU2019、MMD-0065-2020とMMD-0066-2020の解析)
 - ISOでVMのインストールが可能なのでサーバにもそのVMの導入方法も出来ます。
-- 他のTSうるぎ Linuxバーションについて確認次第に情報を追加致します。
+- 他のTsurugi Linuxバーションについて、テストの結果を確認次第に情報を追加致します
 
 ---
 **今までのradare2のテスト/バグフィックス/試験のステータスについて**
@@ -91,7 +91,8 @@ commit: 982be504999364c966d339c4c29f20da80128e14 build: 2019-12-17__10:29:05
 - [現在確認中 ⇒ radare2_4.5.0-git](https://github.com/radareorg/radare2/releases/tag/continuous)
 - 4.4.0 (性能試験の結果が良くない(重い)、4.5.0のリリースでバグフィックス)
 - 4.3.0 (ビルドのバグがあり、4.5.0のリリースでバグフィックス)
-参考として[r2リリース情報の一覧](https://github.com/radareorg/radare2/releases)
+
+＊）参考として[r2リリース情報の一覧](https://github.com/radareorg/radare2/releases)
 
 ---
 **OSディストリビューションのEOL情報**
