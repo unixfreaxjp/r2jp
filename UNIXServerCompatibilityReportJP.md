@@ -20,7 +20,7 @@ Debian Wheezy: unsupported, see: https://twitter.com/malwaremustd1e/status/12159
 Debian Jessie: supported , core : OK , r2ghidra: NG, r2dec OK 
 Debian Stretch: supported , core : OK , r2ghidra: NG, r2dec OK 
 Tsurugi Linux SECCON edition: supported , core : OK , r2ghidra: OK, r2dec OK
-Debian Buster: core: OK, r2ghidra: PENDING, r2dec PENDING 
+Debian Buster: supported , core: OK, r2ghidra: PENDING, r2dec PENDING 
 Tsurugi Linux 2020年3月アップデート: (TBA、テスト中)
 NetBSD と OpenBSD (TBA、テスト中)
 ```
