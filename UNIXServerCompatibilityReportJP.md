@@ -37,7 +37,7 @@ NetBSD と OpenBSD (TBA)
 radare2 4.2.0-git 23842 @ freebsd-x86-64 git.4.1.1-128-g3c788a496
 commit: 3c788a49674d2e1c0e8ddbe6cce52ab4a9bcf818 build: 2020-01-16__14:06:39
 ```
-上記のバーションのpdc、r2decとr2ghidraは「現在対応しているバーション」のセクションに書いたとおり、[本STABLEバーションのリリース参考情報はこちらとなります](https://github.com/radareorg/radare2/releases/tag/4.2.0)
+上記のバーションのpdc、r2decとr2ghidraは「現在対応しているバーション」のセクションに書いたとおり、本STABLEバーションの[パッケージはこちらになります](https://github.com/radareorg/radare2/releases/tag/4.2.0)
 
 (2) サーバ版特にFreeBSD/OpenBSDのx32ビットについて、下記のradare2のバーションをインストールしてください。
 ```
@@ -53,7 +53,7 @@ commit: d112883c5ad7309ca577373639281bb8e57d9988 build: 2019-09-20__21:38:58
 radare2 4.0.0-git 22926 @ freebsd-x86-64 git.3.9.0-20-gd112883c5
 commit: d112883c5ad7309ca577373639281bb8e57d9988 build: 2019-09-20__12:53:49
 ```
-↑本バーションにはpdcとr2dec迄のプラグインにしか対応をしておりません。
+↑本バーションにはpdcとr2dec迄のプラグインにしか対応をしておりません。本バーションの[パッケージはこちらになります](https://github.com/radareorg/radare2/releases/tag/4.0.0)
 
 **安定したOS組み込みバーション↓**
 
