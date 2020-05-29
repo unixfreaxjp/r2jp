@@ -6,7 +6,7 @@
 
 結論は以下の内容となります。 (R2JP の内部向けの内容となります)
 
-
+---
 **今現在対応しているバーションと対応していないバーションの結論**
 
 ＊）”unsupported”は2020年からは対応をしていない、”supported”は対応予定、core = r2パッケージ、プラグイン無し
@@ -24,20 +24,23 @@ Debian Buster: core: OK, r2ghidra: PENDING, r2dec PENDING
 Tsurugi Linux 2020年3月アップデート: (TBA、テスト中)
 NetBSD と OpenBSD (TBA、テスト中)
 ```
-
+---
 **テストの詳細内容↓ (v4.3.0 ～ v4.4.0 base/core)**
 
 - 上記のテスト用にサポートされているバージョンはすべてx64ビットCPU用で、 x32ビットCPUのサーバーは現在非コミットの状態です。
-- r2ghidraはdebianのコンパイルに失敗し、 "isnan"、 "isinf" <  ambiguousエラーが出ています。
-- CPPライブラリ互換性のBSDプラットフォームでr2 ghidraが失敗しました
-- BSDテストスキーム全体で、r2decには「duktape」のビルドに関する問題が発生しています。
-- FreeBSDx32は現在サポートされていません。報告しましたの内容(https：//twitter.com/malwaremustd1e/status/1211930394628509697)をご参照してください。
+- r2ghidraはdebianのコンパイルに失敗し、 `isnan`、 `isinf` <  `ambiguous`のエラーが出ています。
+- CPPライブラリ互換性のBSDプラットフォームで`r2ghidra-dec`プラグインが失敗しました
+- BSDテストスキーム全体で、`r2dec`には「duktape」のビルドに関する問題が発生しています。
+- FreeBSDx32は現在サポートされていません。
+
+報告しましたの内容(https：//twitter.com/malwaremustd1e/status/1211930394628509697)をご参照してください。
 - Debian Stretch x32のテストはもうコミットされていませんが、最新の結果は下記のとおりです↓
+
   Debian Stretch x86 core : ok , r2ghidra: NG, r2dec OK
 - OpenBSDは未だテスト中です。情報を改めて報告します。
 - NetBSDの最新バージョンも後でお知らせします。
 
-
+---
 **最新安定しているバージョンの情報（Linux/BSDサーバについて）**
 
 (1)下記のバーション以降は`x64`ビットのみの対応となりますが、`x32`サーバの対応が不可能となります。
@@ -70,7 +73,7 @@ commit: d112883c5ad7309ca577373639281bb8e57d9988 build: 2019-09-20__12:53:49
 
 本バーションの[パッケージはこちらになります](https://github.com/radareorg/radare2/releases/tag/4.0.0)
 
-
+---
 **安定している組み込みOSの情報**
 
 Tsurugi [SECCON 2019 Special Edition](https://blog.0day.jp/p/20191218.html)
@@ -81,7 +84,7 @@ commit: 982be504999364c966d339c4c29f20da80128e14 build: 2019-12-17__10:29:05
 - (core : OK , r2ghidra: OK, r2dec OK, 実績: SECCON2019、HACKLU2019、MMD-0065-2020とMMD-0066-2020の解析)
 - ISOでVMのインストールが可能なのでサーバにもそのVMの導入方法も出来ます。
 
-
+---
 **今までのradare2のテスト/バグフィックス/試験のステータスについて**
 
 - [現在確認中 ⇒ radare2_4.5.0-git](https://github.com/radareorg/radare2/releases/tag/continuous)
@@ -89,7 +92,7 @@ commit: 982be504999364c966d339c4c29f20da80128e14 build: 2019-12-17__10:29:05
 - 4.3.0 (ビルドのバグがあり、4.5.0のリリースでバグフィックス)
 参考として[r2リリース情報の一覧](https://github.com/radareorg/radare2/releases)
 
-
+---
 **OSディストリビューションのEOL情報**
 
 2020年にradare2 UNIXの対応は様々なOSディストリビューションの下記の情報を参考にして対応の計画を作りました。
@@ -102,7 +105,7 @@ commit: 982be504999364c966d339c4c29f20da80128e14 build: 2019-12-17__10:29:05
 
 ＊）上記の内容を定期的に更新を行いますので変更される可能性もあります。
 
-
 ---
 unixfreaxjp@tsurugiseccon:~$ date
 Sat May 30 06:04:32 JST 2020
+r2jp
