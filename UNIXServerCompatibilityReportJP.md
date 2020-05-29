@@ -33,10 +33,10 @@ NetBSD と OpenBSD (TBA、テスト中)
 - BSDテストスキーム全体で、`r2dec`には「duktape」のビルドに関する問題が発生しています。
 - FreeBSDx32は現在サポートされていません。
 
-  報告しましたの内容(https：//twitter.com/malwaremustd1e/status/1211930394628509697)をご参照してください。
+  報告しましたの内容を[ご参照してください]((https：//twitter.com/malwaremustd1e/status/1211930394628509697))。
 - Debian Stretch x32のテストはもうコミットされていませんが、最新の結果は下記のとおりです↓
 
-  Debian Stretch x86 core : ok , r2ghidra: NG, r2dec OK。
+  Debian Stretch x86、 r2 core : OK , r2ghidra: NG, r2dec OK。
 - OpenBSDは未だテスト中です。情報を改めて報告します。
 - NetBSDの最新バージョンも後でお知らせします。
 
@@ -83,7 +83,7 @@ commit: 982be504999364c966d339c4c29f20da80128e14 build: 2019-12-17__10:29:05
 ```
 - (core : OK , r2ghidra: OK, r2dec OK, 実績: SECCON2019、HACKLU2019、MMD-0065-2020とMMD-0066-2020の解析)
 - ISOでVMのインストールが可能なのでサーバにもそのVMの導入方法も出来ます。
-- 他のTsurugi Linuxバーションについて、テストの結果を確認次第に情報を追加致します
+- 他のTsurugi Linuxバーションについて、テストの結果を確認次第に情報を追加します。
 
 ---
 **今までのradare2のテスト/バグフィックス/試験のステータスについて**
