@@ -1,4 +1,4 @@
-## radare2 for servers support (r2jp community)
+## radare2 for servers support in 2020 (r2jp community)
 
 今まで互換性テスト結果を加え、2020年に対応すると対応しないradare2 for UNIXサーババーションを纏めたいと思います。
 
