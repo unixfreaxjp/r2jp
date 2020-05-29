@@ -10,17 +10,16 @@
 **今現在対応しているバーションと対応していないバーションの結論**
 
 ＊）`unsupported`は2020年からは対応をしていない、`supported`は対応予定、`core` = r2パッケージ、プラグイン無し
-
 ```
-FreeBSD 9 :  `unsupported`, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
-FreeBSD 10 : `unsupported`, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
-FreeBSD 11 : `supported`, `core` : OK , `r2ghidra`: NG, `r2dec` NG 
-FreeBSD 12 : `supported`, `core` : OK , `r2ghidra`: NG, `r2dec` NG 
-Debian Wheezy: `unsupported`, see: https://twitter.com/malwaremustd1e/status/1215954152137740288
-Debian Jessie: `supported`, `core` : OK , `r2ghidra`: NG, `r2dec` OK 
-Debian Stretch: `supported`, `core` : OK , `r2ghidra`: NG, `r2dec` OK 
-Tsurugi Linux SECCON edition: `supported`, `core` : OK , `r2ghidra`: OK, `r2dec` OK
-Debian Buster: `supported`, `core`: OK, `r2ghidra`: PENDING, `r2dec` PENDING 
+FreeBSD 9 :  unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
+FreeBSD 10 : unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
+FreeBSD 11 : supported, core : OK , r2ghidra: NG, r2dec NG 
+FreeBSD 12 : supported, core : OK , r2ghidra: NG, r2dec NG 
+Debian Wheezy: unsupported, see: https://twitter.com/malwaremustd1e/status/1215954152137740288
+Debian Jessie: supported, core : OK , r2ghidra: NG, r2dec OK 
+Debian Stretch: supported, core : OK , r2ghidra: NG, r2dec OK 
+Tsurugi Linux SECCON edition: supported, core : OK , r2ghidra: OK, r2dec OK
+Debian Buster: supported, core: OK, r2ghidra: PENDING, r2dec PENDING 
 Tsurugi Linux 2020年3月アップデート: (TBA、テスト中)
 NetBSD と OpenBSD (TBA、テスト中)
 ```
