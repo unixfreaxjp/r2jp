@@ -29,14 +29,14 @@ NetBSD と OpenBSD (TBA、テスト中)
 
 - 上記のテスト用にサポートされているバージョンはすべてx64ビットCPU用で、 x32ビットCPUのサーバーは現在非コミットの状態です。
 - r2ghidraはdebianのコンパイルに失敗し、 `isnan`、 `isinf` <  `ambiguous`のエラーが出ています。
-- CPPライブラリ互換性のBSDプラットフォームで`r2ghidra-dec`プラグインが失敗しました
+- CPPライブラリ互換性のBSDプラットフォームで`r2ghidra-dec`プラグインが失敗しました。
 - BSDテストスキーム全体で、`r2dec`には「duktape」のビルドに関する問題が発生しています。
 - FreeBSDx32は現在サポートされていません。
 
   報告しましたの内容(https：//twitter.com/malwaremustd1e/status/1211930394628509697)をご参照してください。
 - Debian Stretch x32のテストはもうコミットされていませんが、最新の結果は下記のとおりです↓
 
-  Debian Stretch x86 core : ok , r2ghidra: NG, r2dec OK
+  Debian Stretch x86 core : ok , r2ghidra: NG, r2dec OK。
 - OpenBSDは未だテスト中です。情報を改めて報告します。
 - NetBSDの最新バージョンも後でお知らせします。
 
