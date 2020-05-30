@@ -1,5 +1,7 @@
 ## radare2 for servers support in 2020 (r2jp community)
 
+[English version](https://github.com/radareorg/r2jp/blob/master/UNIXServerCompatibilityReportEN.md)
+
 今まで互換性テスト結果を加え、2020年に対応すると対応しない`radare2` for UNIXサーババーションを纏めたいと思います。
 
 以前2019年12月(＠SECCON 2019)にpancakeさんと本内容の打ち合わせを行い、今年(2020年)はどの対応体制のコミットが出来るかと相談しました。
