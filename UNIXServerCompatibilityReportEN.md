@@ -21,14 +21,19 @@ I would like to conclude radare2 compatibility test results so far and summarize
 The background is, we had a serious meeting with pancake on December 2019 (@SECCON 2019) in Tokyo and discussed we should be clear on which server systems that can be committed to be supported for test and bugdix and which are not for this year (2020).
 
 The conclusion is as follows. The contents was initially written for R2JP/r2 Japanese comunity as standard deployment guide for NIX servers and native embedded Linux devices, but now is shared publicly as reference.
-
+```asm
+MEMO:
+Due to the COVID19 isolation some tests are in pending since I can not upgrade native servers 
+in data center/IDC. Hopefully the test stream will be back to normal from June, 2020.
+Thank you for understanding - unixfreaxjp
+```
 ---
 
 ## Support information
 
 Conclusion of versions that are currently supported and those that are not:
 
-*) unsupported = Has not been supported since 2020, supported = will be supported until firther notice, core= r2 package/without plug-in
+*) unsupported = will NOT be supported from 2020, supported = will be supported until further notice, core= r2 package/without plug-in
 
 ```
 FreeBSD 9 :  unsupported, see: https://twitter.com/malwaremustd1e/status/1211930394628509697
