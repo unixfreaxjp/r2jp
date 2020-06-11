@@ -108,7 +108,7 @@ commit: ae883f0cd3b12da0272f1471cab82c2e75cd1575 build: 2020-06-10__19:54:43
 ```
 
 ---
-**radare2プロジェクトの全般リンク（サイト、資料、ダウンロード、使う方、など）
+**radare2プロジェクトの全般リンク（サイト、資料、ダウンロード、使う方、など）**
 
 - site [https://www.radare.org/](https://www.radare.org/) or [http://rada.re/](http://rada.re/)
 - releases [https://github.com/radare/radare2/releases](https://github.com/radare/radare2/releases)
