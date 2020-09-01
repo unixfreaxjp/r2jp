@@ -125,7 +125,8 @@ commit: ae883f0cd3b12da0272f1471cab82c2e75cd1575 build: 2020-06-10__19:54:43
 - ctf tips [http://radare.today/posts/using-radare2/](http://radare.today/posts/using-radare2/)
 - devcode CLang checks (Jenkins) [http://ci.radare.org/job/radare2-scan-build/](http://ci.radare.org/job/radare2-scan-build/)
 - twitter @radareorg [https://twitter.com/radareorg](https://twitter.com/radareorg)
-- [!!NEW!! radare2 UNIX servers compatibility info, ～April 2020](https://github.com/radareorg/r2jp/blob/master/UNIXServerCompatibilityReportJP.md)
+- [radare2 UNIX servers compatibility info, ～April 2020](https://github.com/radareorg/r2jp/blob/master/UNIXServerCompatibilityReportJP.md)
+- [radare2 exploration](https://monosource.gitbooks.io/radare2-explorations/content/)
 ---
  
 r2jp のイベント情報
