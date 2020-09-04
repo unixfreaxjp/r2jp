@@ -119,6 +119,7 @@ commit: ae883f0cd3b12da0272f1471cab82c2e75cd1575 build: 2020-06-10__19:54:43
 - wiki [https://r2wiki.readthedocs.io/en/latest/](https://r2wiki.readthedocs.io/en/latest/)
 - etc documentaton [http://radare.today/posts/radare2-is-documented/](http://radare.today/posts/radare2-is-documented/)
 - blog [http://radare.today](http://radare.today)
+- blog [https://radareorg.github.io/blog/](https://radareorg.github.io/blog/)
 - installers [http://radare.mikelloc.com/list](http://radare.mikelloc.com/list)
 - r2con conference [https://rada.re/con/](https://rada.re/con/) or [https://github.com/radareorg/r2con](https://github.com/radareorg/r2con)
 - web demo [http://cloud.rada.re](http://cloud.rada.re) (今メインテナンス中)
